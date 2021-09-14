@@ -1,1 +1,1 @@
-# HackTheBox
+# Go to Wiki
